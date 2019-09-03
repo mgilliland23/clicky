@@ -1,0 +1,13 @@
+.cardWrapper {
+    padding-top: 50px;
+    width: 1000px;
+    margin: 0 auto;
+    background: #ECEFF1;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: center;
+    align-content: flex-start;
+    overflow: auto;
+}
