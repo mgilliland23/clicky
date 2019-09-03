@@ -1,6 +1,6 @@
 # Clicky
 
-This is a simple game that uses the react framework. 
+This is a simple game that uses the react framework. It demonstrates the use of props and states.
 
 
 ### How to Play
